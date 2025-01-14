@@ -14,11 +14,9 @@ To test my PHP knowledge.
 
 ## Preview
 
-![Uygulama Ekran Videosu](
-
 https://github.com/user-attachments/assets/58702760-f87d-40c6-9a2b-1a1269eb6c63
 
-)
+
   
 ## How to run
 
